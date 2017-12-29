@@ -1,6 +1,6 @@
 {
-  "name": "idavoll/translation-module",
-  "description": "Module containing all AsgardCms translations",
+  "name": "denisgold/translation-module",
+  "description": "Module containing all AsgardCms translations by Denis Stoliarchuk",
   "type": "asgard-module",
   "license": "MIT",
   "require": {
@@ -26,8 +26,9 @@
   },
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "n.widart@gmail.com"
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
+      "role": "Developer"
     }
   ],
   "extra": {
